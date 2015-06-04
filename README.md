@@ -1,4 +1,4 @@
-gun [![Build Status](https://travis-ci.org/amark/gun.svg?branch=master)](https://travis-ci.org/amark/gun)
+gun [![Build Status](https://travis-ci.org/metasean-toys/gun-travis-test.svg?branch=master)](https://travis-ci.org/metasean-toys/gun-travis-test)
 ===
 
 ## Getting Started
